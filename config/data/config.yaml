@@ -1,0 +1,10 @@
+datasets:
+  train:
+    gsv-cities: /media/shuai/Correspondence/explore/OpenJKL/data/train/gsv-cities
+    gsv-cities-light: /media/shuai/Correspondence/explore/OpenJKL/data/train/gsv-cities-light
+
+
+  val:
+    msls-val: /media/shuai/Correspondence/explore/OpenJKL/data/val/msls-val
+    pitts30k-val: /media/shuai/Correspondence/explore/OpenJKL/data/val/pitts30k-val
+    TJPark: /media/shuai/Correspondence/explore/OpenJKL/data/val/TJPark
